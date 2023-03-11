@@ -8,6 +8,8 @@ You can reach me at njcarrasco at mat dot uc dot cl.
 
 # Interests
 My mathematical interests are dynamics and (un)computability theory.
+# A picture
+This is me, talking about Turing degrees in a [student's seminar] (https://sites.google.com/view/sepmat/inicio).
 ![Alt text](Yo.png 'Yo mismo')
 
 [Pontificia Universidad Católica de Chile]: http://mat.uc.cl/
