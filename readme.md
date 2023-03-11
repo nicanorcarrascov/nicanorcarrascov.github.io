@@ -1,7 +1,6 @@
 ---
 title: Bienvenide
 layout: page
-permalink: /
 ---
 
 # Welcome
