@@ -5,8 +5,8 @@ My name is Nicanor, I am a mathematics Phd student at [Pontificia Universidad Ca
 You can reach me at njcarrasco at mat dot uc dot cl.  
 
 # About
-See [About]
-[About]: \about
+See [About].
+
 
 # Interests
 My mathematical interests are dynamics and (un)computability theory.
@@ -17,4 +17,6 @@ My mathematical interests are dynamics and (un)computability theory.
 
 [Sebastián Barbieri]: http://www.sbarbieri.usach.cl/index.html
 
-[Mathieu Sablik]:https://www.math.univ-toulouse.fr/~msablik/
+[Mathieu Sablik]: https://www.math.univ-toulouse.fr/~msablik/
+
+[About]: \about
