@@ -15,7 +15,7 @@ See [About].
 
 # Interests
 My mathematical interests are dynamics and (un)computability theory.
-![Alt text][Yo.png "Yo mismo"]
+![Alt text](Yo.png "Yo mismo")
 
 [Pontificia Universidad Católica de Chile]: http://mat.uc.cl/
 
