@@ -19,4 +19,4 @@ My mathematical interests are dynamics and (un)computability theory.
 
 [Mathieu Sablik]: https://www.math.univ-toulouse.fr/~msablik/
 
-[About]: \about
+[About]: /about
