@@ -1,6 +1,6 @@
 ---
 title: Welcome, Bienvenid@
-description: Nicanor Carrasco-Vargas webpage
+description: This is Nicanor Carrasco-Vargas webpage
 ---
 
 # About me
