@@ -1,4 +1,4 @@
-# nicanorcarrascov.github.io
-Personal page
+# Welcome
+This is my personal page
 #wanna se the other
 
