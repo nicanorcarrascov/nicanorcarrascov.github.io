@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Hello
-description: My niame is Nicanor Carrasco-Vargas, this is my website.
+description: My name is Nicanor Carrasco-Vargas, this is my website. You can go to the [about][[].
+[about]: /about
+
