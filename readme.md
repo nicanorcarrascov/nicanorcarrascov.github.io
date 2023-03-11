@@ -1,8 +1,3 @@
----
-layout: page
-title: Bienvenide
----
-
 Bienvenide
 =======
 My name is Nicanor, I am a mathematics Phd student at [Pontificia Universidad Católica de Chile][] under the supervision of [Cristóbal Rojas][] and [Sebastián Barbieri][]. In this moment I am in Toulouse, France, visiting [Mathieu Sablik][]. 
