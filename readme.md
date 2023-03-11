@@ -4,7 +4,7 @@ My name is Nicanor, I am a mathematics Phd student at [Pontificia Universidad Ca
 # Contact
 You can reach me at njcarrasco at mat dot uc dot cl.  
 
-#About
+# About
 See [About]
 [About]: \about
 
