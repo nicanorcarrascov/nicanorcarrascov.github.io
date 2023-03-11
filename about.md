@@ -3,5 +3,7 @@ layout: page
 title: About
 permalink: /about
 ---
-vamos probando a ver que hay ahi
+#titulito
+aver
+svamos probando a ver que hay ahi
 
