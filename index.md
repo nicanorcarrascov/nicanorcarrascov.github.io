@@ -10,7 +10,7 @@ My mathematical interests are dynamics and (un)computability theory.
 
 # Contact
 
-You can reach me at njcarrasco at mat dot uc dot cl.  
+You can reach me at njcarrasco Ⓐ mat dot uc dot cl.  
 
 # A picture
 This is me, talking about Turing degrees in a [student's seminar](https://sites.google.com/view/sepmat/inicio).
