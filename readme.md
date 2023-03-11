@@ -5,13 +5,9 @@ My name is Nicanor, I am a mathematics Phd student at [Pontificia Universidad Ca
 # Contact
 You can reach me at njcarrasco at mat dot uc dot cl.  
 
-# About
-See [About].
-
-
 # Interests
 My mathematical interests are dynamics and (un)computability theory.
-![Alt text](Yo.png "Yo mismo")
+![Alt text](Yo.png 'Yo mismo')
 
 [Pontificia Universidad Católica de Chile]: http://mat.uc.cl/
 
